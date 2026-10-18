@@ -40,3 +40,31 @@ Dataset terdiri atas kolom identitas pelanggan dan fitur-fitur yang menggambarka
 ## 4. Kesimpulan
 
 Credit Card Dataset dapat digunakan untuk mempelajari clustering karena memiliki sejumlah fitur numerik yang menggambarkan perilaku penggunaan kartu kredit pelanggan. Melalui fitur-fitur tersebut, pelanggan dapat dikelompokkan berdasarkan kemiripan karakteristiknya menggunakan metode clustering yang dipelajari dalam praktikum.
+
+
+
+# Tugas 2 - Air Traffic Passenger Statistics
+
+## 1. Dataset
+
+Dataset yang digunakan pada tugas ini adalah Air Traffic Passenger Statistics yang diperoleh dari DataSF.
+
+Sumber dataset: https://data.sfgov.org/Transportation/Air-Traffic-Passenger-Statistics/rkru-6vcg
+
+Dataset ini berisi statistik bulanan jumlah penumpang di San Francisco International Airport berdasarkan maskapai dan karakteristik aktivitas penerbangan.
+
+## 2. Tujuan
+
+Dataset ini digunakan untuk menerapkan metode clustering menggunakan algoritma K-Means dan K-Medoids. Proses clustering dilakukan untuk mengelompokkan data berdasarkan kemiripan karakteristik yang terdapat pada fitur-fitur dataset.
+
+## 3. Rencana Pengerjaan
+
+1. Memeriksa struktur dan karakteristik dataset.
+2. Menyiapkan fitur yang sesuai untuk proses clustering.
+3. Menentukan jumlah cluster menggunakan metode yang dipelajari pada praktikum.
+4. Menerapkan algoritma K-Means dan K-Medoids.
+5. Membandingkan dan menganalisis hasil clustering.
+
+## 4. File
+
+Dataset dan notebook pengerjaan akan disimpan pada folder ini.
