@@ -67,4 +67,4 @@ Dataset ini digunakan untuk menerapkan metode clustering menggunakan algoritma K
 
 ## 4. File
 
-Dataset dan notebook pengerjaan akan disimpan pada folder ini.
+https://colab.research.google.com/drive/1g386iLyXbLaKHxj7FhGti9VTJ-Ms6MLb?usp=sharing
